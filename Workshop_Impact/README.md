@@ -12,6 +12,6 @@ Anyway, our **conclusions** were:
 
 1) Performance is better on the schools that participated in the workshops.
 
-2) The performance of these schools continues to improve years after having the workshops
+2) The performance of these schools continues to improve years after having the workshops.
 
-[This plot](Regression_Performance_years_after_WS.pdf) shows our insights.
+[This plot](Regression_Performance_years_after_WS.pdf) summarizes our insights.
