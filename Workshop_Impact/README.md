@@ -1,4 +1,4 @@
-## Study of the impact of the workshops on the marks of schools
+#### Study of the impact of the workshops on the marks of schools
 
 The analysis is explained in detail in the following ipython notebook:
 
@@ -14,3 +14,4 @@ Anyway, our **conclusions** were:
 
 2) The performance of these schools continues to improve years after having the workshops
 
+[This plot](Regression_Performance_years_after_WS.pdf) shows our insights.
